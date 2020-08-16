@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db3b683035ca5e8cdcbb2a37233af6e2",
+    "revision": "a328e5206fa003dce443ffc375b01822",
     "url": "/YouTube-redux/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/YouTube-redux/static/css/2.f3c4d3e1.chunk.css"
   },
   {
-    "revision": "cd747649d6a781753104",
+    "revision": "d05e6af75e09aaea1758",
     "url": "/YouTube-redux/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/YouTube-redux/static/js/2.69b45daa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cd747649d6a781753104",
-    "url": "/YouTube-redux/static/js/main.666fbfde.chunk.js"
+    "revision": "d05e6af75e09aaea1758",
+    "url": "/YouTube-redux/static/js/main.e7534a81.chunk.js"
   },
   {
     "revision": "71832df5a532e0e2ed24",
