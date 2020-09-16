@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eef26ceb0f6ef702fb300a35cafeeb5c",
+    "revision": "34cdfb6eb6115b2e791a01a8d989749b",
     "url": "/YouTube-redux/index.html"
   },
   {
