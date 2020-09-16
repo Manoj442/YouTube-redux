@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a328e5206fa003dce443ffc375b01822",
+    "revision": "eef26ceb0f6ef702fb300a35cafeeb5c",
     "url": "/YouTube-redux/index.html"
   },
   {
-    "revision": "d8e03543d2315fef940c",
+    "revision": "cf6dd9d3b81f61cd35ca",
     "url": "/YouTube-redux/static/css/2.f3c4d3e1.chunk.css"
   },
   {
-    "revision": "d05e6af75e09aaea1758",
+    "revision": "313ecb43fef1647a4625",
     "url": "/YouTube-redux/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "d8e03543d2315fef940c",
-    "url": "/YouTube-redux/static/js/2.69b45daa.chunk.js"
+    "revision": "cf6dd9d3b81f61cd35ca",
+    "url": "/YouTube-redux/static/js/2.e62932bc.chunk.js"
   },
   {
     "revision": "4a1691fd44116c5f8c99a494e6966d73",
-    "url": "/YouTube-redux/static/js/2.69b45daa.chunk.js.LICENSE.txt"
+    "url": "/YouTube-redux/static/js/2.e62932bc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d05e6af75e09aaea1758",
-    "url": "/YouTube-redux/static/js/main.e7534a81.chunk.js"
+    "revision": "313ecb43fef1647a4625",
+    "url": "/YouTube-redux/static/js/main.0a9b840d.chunk.js"
   },
   {
     "revision": "71832df5a532e0e2ed24",
